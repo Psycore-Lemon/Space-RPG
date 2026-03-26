@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 276a55109a00de44b8dd9a8c08ad9f3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7672052582422999128
+    second: Spacestation_Inside_C_0
+  - first:
+      213: -8710284321372225775
+    second: Spacestation_Inside_C_1
+  - first:
+      213: 7330069219409421505
+    second: Spacestation_Inside_C_2
+  - first:
+      213: -826261399485706794
+    second: Spacestation_Inside_C_3
+  - first:
+      213: 116832384564689483
+    second: Spacestation_Inside_C_4
+  - first:
+      213: -1315345433878119624
+    second: Spacestation_Inside_C_5
+  - first:
+      213: 5732710090122270638
+    second: Spacestation_Inside_C_6
+  - first:
+      213: -986965715633077051
+    second: Spacestation_Inside_C_7
+  - first:
+      213: -8425884064229855793
+    second: Spacestation_Inside_C_8
+  - first:
+      213: -3983789882598770240
+    second: Spacestation_Inside_C_9
+  - first:
+      213: -5767611827740810805
+    second: Spacestation_Inside_C_10
+  - first:
+      213: 5347235138444461035
+    second: Spacestation_Inside_C_11
+  - first:
+      213: -3357529427300915388
+    second: Spacestation_Inside_C_12
+  - first:
+      213: -7993244247652684810
+    second: Spacestation_Inside_C_13
+  - first:
+      213: 2120211467598838716
+    second: Spacestation_Inside_C_14
+  - first:
+      213: -1366899096951865567
+    second: Spacestation_Inside_C_15
+  - first:
+      213: 6225049162426438051
+    second: Spacestation_Inside_C_16
+  - first:
+      213: 8771349487705367872
+    second: Spacestation_Inside_C_17
+  - first:
+      213: -8723801197532754009
+    second: Spacestation_Inside_C_18
+  - first:
+      213: 1325558600750097617
+    second: Spacestation_Inside_C_19
+  - first:
+      213: 3215351592042405774
+    second: Spacestation_Inside_C_20
+  - first:
+      213: 1109789244572087801
+    second: Spacestation_Inside_C_21
+  - first:
+      213: 1502564010138343786
+    second: Spacestation_Inside_C_22
+  - first:
+      213: -9103787492834266993
+    second: Spacestation_Inside_C_23
+  - first:
+      213: -3396769387275609982
+    second: Spacestation_Inside_C_24
+  - first:
+      213: 5636052190256384139
+    second: Spacestation_Inside_C_25
+  - first:
+      213: -7690863719069495657
+    second: Spacestation_Inside_C_26
+  - first:
+      213: 1649455969552280120
+    second: Spacestation_Inside_C_27
+  - first:
+      213: 4149359688606838367
+    second: Spacestation_Inside_C_28
+  - first:
+      213: -8529833849951237627
+    second: Spacestation_Inside_C_29
+  - first:
+      213: -4459168036167349835
+    second: Spacestation_Inside_C_30
+  - first:
+      213: 4649419700060559904
+    second: Spacestation_Inside_C_31
+  - first:
+      213: 7906604154339927088
+    second: Spacestation_Inside_C_32
+  - first:
+      213: 4580182334372542840
+    second: Spacestation_Inside_C_33
+  - first:
+      213: 2428681026832371901
+    second: Spacestation_Inside_C_34
+  - first:
+      213: -7139928592860343146
+    second: Spacestation_Inside_C_35
+  - first:
+      213: -2321790134509590296
+    second: Spacestation_Inside_C_36
+  - first:
+      213: -7645983051440070309
+    second: Spacestation_Inside_C_37
+  - first:
+      213: -1522256316178785660
+    second: Spacestation_Inside_C_38
+  - first:
+      213: -5539546801146407052
+    second: Spacestation_Inside_C_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af0f8613d4678590800000000000000
+      internalID: -7672052582422999128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 695
+        width: 290
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f34fb0f8ade1780800000000000000
+      internalID: -8710284321372225775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 605
+        width: 290
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c46ce16e13a9b560800000000000000
+      internalID: 7330069219409421505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 671
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd890882a78884f0800000000000000
+      internalID: -826261399485706794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 671
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a7d3c4f621f9100800000000000000
+      internalID: 116832384564689483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 289
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b33c00c44febde0800000000000000
+      internalID: -1315345433878119624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 575
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7190a247dae8f40800000000000000
+      internalID: 5732710090122270638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 559
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4833a29e79d42f0800000000000000
+      internalID: -986965715633077051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 239
+        width: 385
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd64f8f51f311b80800000000000000
+      internalID: -8425884064229855793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_9
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 575
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9b7e3753cb6b8c0800000000000000
+      internalID: -3983789882598770240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 575
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1ea2dc99355ffa0800000000000000
+      internalID: -5767611827740810805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 463
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3087d0702353a40800000000000000
+      internalID: 5347235138444461035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 431
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447eeca56c8a761d0800000000000000
+      internalID: -3357529427300915388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 338
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb2abfe4ba421190800000000000000
+      internalID: -7993244247652684810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 297
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb30fea8118c6d10800000000000000
+      internalID: 2120211467598838716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 193
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fb162738cc70de0800000000000000
+      internalID: -1366899096951865567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a155c34b31d36650800000000000000
+      internalID: 6225049162426438051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 191
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045ab7fe2e71ab970800000000000000
+      internalID: 8771349487705367872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 241
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afcee11805dee680800000000000000
+      internalID: -8723801197532754009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 193
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d46ca63684556210800000000000000
+      internalID: 1325558600750097617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 146
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f9cafbc393f9c20800000000000000
+      internalID: 3215351592042405774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 106
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b4422073c66f00800000000000000
+      internalID: 1109789244572087801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 95
+        width: 44
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69159c910e2ad410800000000000000
+      internalID: 1502564010138343786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 143
+        width: 242
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8038fa5289d8a180800000000000000
+      internalID: -9103787492834266993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_24
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 169
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28814873d304cd0d0800000000000000
+      internalID: -3396769387275609982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 193
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b884bcf1b97473e40800000000000000
+      internalID: 5636052190256384139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 98
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4ce80230944590800000000000000
+      internalID: -7690863719069495657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aafc1177b04e610800000000000000
+      internalID: 1649455969552280120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 95
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e6cbc07ac759930800000000000000
+      internalID: 4149359688606838367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 23
+        width: 109
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50acd847e41ff9980800000000000000
+      internalID: -8529833849951237627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_30
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 38
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9087afb4add12c0800000000000000
+      internalID: -4459168036167349835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_31
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 78
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a10d1659e068040800000000000000
+      internalID: 4649419700060559904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_32
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 77
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342f0f5696e9bd60800000000000000
+      internalID: 7906604154339927088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8797bc6f093109f30800000000000000
+      internalID: 4580182334372542840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db01315b68864b120800000000000000
+      internalID: 2428681026832371901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69497e416c0e9ec90800000000000000
+      internalID: -7139928592860343146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8ac8d8c2857cfd0800000000000000
+      internalID: -2321790134509590296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_37
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51e144cce204e590800000000000000
+      internalID: -7645983051440070309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_38
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 11
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a911912fbdfdae0800000000000000
+      internalID: -1522256316178785660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacestation_Inside_C_39
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 19
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477540db8839f13b0800000000000000
+      internalID: -5539546801146407052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spacestation_Inside_C_0: -7672052582422999128
+      Spacestation_Inside_C_1: -8710284321372225775
+      Spacestation_Inside_C_10: -5767611827740810805
+      Spacestation_Inside_C_11: 5347235138444461035
+      Spacestation_Inside_C_12: -3357529427300915388
+      Spacestation_Inside_C_13: -7993244247652684810
+      Spacestation_Inside_C_14: 2120211467598838716
+      Spacestation_Inside_C_15: -1366899096951865567
+      Spacestation_Inside_C_16: 6225049162426438051
+      Spacestation_Inside_C_17: 8771349487705367872
+      Spacestation_Inside_C_18: -8723801197532754009
+      Spacestation_Inside_C_19: 1325558600750097617
+      Spacestation_Inside_C_2: 7330069219409421505
+      Spacestation_Inside_C_20: 3215351592042405774
+      Spacestation_Inside_C_21: 1109789244572087801
+      Spacestation_Inside_C_22: 1502564010138343786
+      Spacestation_Inside_C_23: -9103787492834266993
+      Spacestation_Inside_C_24: -3396769387275609982
+      Spacestation_Inside_C_25: 5636052190256384139
+      Spacestation_Inside_C_26: -7690863719069495657
+      Spacestation_Inside_C_27: 1649455969552280120
+      Spacestation_Inside_C_28: 4149359688606838367
+      Spacestation_Inside_C_29: -8529833849951237627
+      Spacestation_Inside_C_3: -826261399485706794
+      Spacestation_Inside_C_30: -4459168036167349835
+      Spacestation_Inside_C_31: 4649419700060559904
+      Spacestation_Inside_C_32: 7906604154339927088
+      Spacestation_Inside_C_33: 4580182334372542840
+      Spacestation_Inside_C_34: 2428681026832371901
+      Spacestation_Inside_C_35: -7139928592860343146
+      Spacestation_Inside_C_36: -2321790134509590296
+      Spacestation_Inside_C_37: -7645983051440070309
+      Spacestation_Inside_C_38: -1522256316178785660
+      Spacestation_Inside_C_39: -5539546801146407052
+      Spacestation_Inside_C_4: 116832384564689483
+      Spacestation_Inside_C_5: -1315345433878119624
+      Spacestation_Inside_C_6: 5732710090122270638
+      Spacestation_Inside_C_7: -986965715633077051
+      Spacestation_Inside_C_8: -8425884064229855793
+      Spacestation_Inside_C_9: -3983789882598770240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
