@@ -7,12 +7,15 @@ public class GridPlayerMovement : MonoBehaviour
     public Tilemap wallTilemap;
     public float moveSpeed = 4f;
 
+    public Animator _animator;
+
     private PlayerControls controls;
     private Vector2 moveInput;
 
     private Vector2Int currentLogicCell;
     private Vector3 targetWorldPos;
     private bool isMoving = false;
+    private Vector2Int direction = new Vector2Int(0, -1);
 
     private const float LOGIC_CELL_SIZE = 2f; // 48px if PPU = 24
 
@@ -45,6 +48,7 @@ public class GridPlayerMovement : MonoBehaviour
 
     void Update()
     {
+        _animator.SetBool("IsWalking", isMoving);
         if (isMoving)
         {
             transform.position = Vector3.MoveTowards(
@@ -81,14 +85,18 @@ public class GridPlayerMovement : MonoBehaviour
         else return;
 
         Vector2Int targetLogicCell = currentLogicCell + dir;
+        _animator.SetFloat("MoveX", dir.x);
+        _animator.SetFloat("MoveY", dir.y);
+
 
         if (IsBlocked(targetLogicCell))
             return;
 
+        
         currentLogicCell = targetLogicCell;
         targetWorldPos = LogicCellToWorld(currentLogicCell);
         isMoving = true;
-        moveInput = Vector2.zero;
+        //moveInput = Vector2.zero;
     }
 
     Vector3 LogicCellToWorld(Vector2Int cell)
@@ -154,4 +162,5 @@ public class GridPlayerMovement : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawSphere(center, 0.05f);
     }
+
 }
