@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "Space Gmae",
+   "GUID": "{EF297551-60AF-4401-A41B-A42BC828A362}",
+   "Generator": "2025.1.6.9117"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{128C20B8-8972-4A59-A8C2-9D0D5294C237}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{2C4B872E-CA31-4C18-893D-0BCFDD36E154}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{2BD74976-8521-4315-A6F8-540D9B32FD8D}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{BA041867-AE69-F8FE-CA7E-78ED65D8F1BA}"
+ }
+}

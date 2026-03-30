@@ -1,0 +1,102 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "1327972334",
+    "Type": "User",
+    "GUID": "{DCDDA67D-7FB4-469F-8BBB-A9608C3DAC69}",
+    "Language": "SFX",
+    "Hash": "{4517680B-DD27-40F9-76FA-F2708A365BFB}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\PlayerSounds",
+    "ShortName": "PlayerSounds",
+    "Path": "PlayerSounds.bnk",
+    "Media": [
+     {
+      "Id": "380246729",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Carpet footseps#01.1.wav",
+      "CachePath": "7D/{7D035B21-0166-9332-FA7A-FD0B89DEE39C}.wem"
+     },
+     {
+      "Id": "403496220",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Carpet footseps#01.4.wav",
+      "CachePath": "B7/{B7AD4A2C-2F71-B4FE-1D8A-7A73389F703D}.wem"
+     },
+     {
+      "Id": "404132065",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Carpet footseps#01.3.wav",
+      "CachePath": "18/{18449398-8B14-4003-F183-E27F46527F6A}.wem"
+     },
+     {
+      "Id": "435291759",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Carpet footseps#01.11.wav",
+      "CachePath": "6F/{6FB9A68E-C1AE-F508-9E7F-5752162157A4}.wem"
+     },
+     {
+      "Id": "580402720",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Carpet footseps#01.6.wav",
+      "CachePath": "CB/{CB9647CE-8730-484C-0351-0DAE004FF7BF}.wem"
+     },
+     {
+      "Id": "771393141",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Carpet footseps#01.7.wav",
+      "CachePath": "7D/{7D3BF3E8-24F3-1FAF-577F-3F7D63276DF5}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1088348632",
+      "Name": "PlayFootsteps",
+      "ObjectPath": "\\Events\\Default Work Unit\\PlayFootsteps",
+      "GUID": "{6F3217B9-91F6-498D-9752-CA51314FADB3}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.221875",
+      "DurationMax": "0.47010416",
+      "MediaRefs": [
+       {
+        "Id": "380246729"
+       },
+       {
+        "Id": "403496220"
+       },
+       {
+        "Id": "404132065"
+       },
+       {
+        "Id": "435291759"
+       },
+       {
+        "Id": "580402720"
+       },
+       {
+        "Id": "771393141"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{491A4230-EB3C-34D2-F1A2-A276DE7FFA83}"
+ }
+}

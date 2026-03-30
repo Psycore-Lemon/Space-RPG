@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1088348632	PlayFootsteps			\Default Work Unit\PlayFootsteps	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	380246729	Carpet footseps#01	.cache\7D\{7D035B21-0166-9332-FA7A-FD0B89DEE39C}.wem		\Containers\Default Work Unit\Footsteps\Footsteps\Carpet footseps#01		44910
+	403496220	Carpet footseps#01_02	.cache\B7\{B7AD4A2C-2F71-B4FE-1D8A-7A73389F703D}.wem		\Containers\Default Work Unit\Footsteps\Footsteps\Carpet footseps#01_02		43710
+	404132065	Carpet footseps#01_01	.cache\18\{18449398-8B14-4003-F183-E27F46527F6A}.wem		\Containers\Default Work Unit\Footsteps\Footsteps\Carpet footseps#01_01		29660
+	435291759	Carpet footseps#01_05	.cache\6F\{6FB9A68E-C1AE-F508-9E7F-5752162157A4}.wem		\Containers\Default Work Unit\Footsteps\Footsteps\Carpet footseps#01_05		21460
+	580402720	Carpet footseps#01_03	.cache\CB\{CB9647CE-8730-484C-0351-0DAE004FF7BF}.wem		\Containers\Default Work Unit\Footsteps\Footsteps\Carpet footseps#01_03		40460
+	771393141	Carpet footseps#01_04	.cache\7D\{7D3BF3E8-24F3-1FAF-577F-3F7D63276DF5}.wem		\Containers\Default Work Unit\Footsteps\Footsteps\Carpet footseps#01_04		45290
+
