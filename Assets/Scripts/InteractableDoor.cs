@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class InteractableDoor : MonoBehaviour
+public class InteractableDoor : MonoBehaviour, IInteractable
 {
     public Animator animator;
 

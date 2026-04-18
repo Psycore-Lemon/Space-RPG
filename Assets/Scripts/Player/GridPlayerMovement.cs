@@ -5,39 +5,28 @@ using UnityEngine.Tilemaps;
 public class GridPlayerMovement : MonoBehaviour
 {
     public Tilemap wallTilemap;
+    public Tilemap objectTilemap;
     public float moveSpeed = 4f;
 
     public Animator _animator;
 
-    private PlayerControls controls;
+    private PlayerInputHandler controls;
     private Vector2 moveInput;
 
     private Vector2Int currentLogicCell;
     private Vector3 targetWorldPos;
     private bool isMoving = false;
-    private Vector2Int direction = new Vector2Int(0, -1);
+
+    public Vector2Int direction = new Vector2Int(0, -1);
 
     private const float LOGIC_CELL_SIZE = 2f; // 48px if PPU = 24
 
     void Awake()
     {
-        controls = new PlayerControls();
+        controls = GetComponent<PlayerInputHandler>();
     }
 
-    void OnEnable()
-    {
-        controls.Enable();
-        controls.Gameplay.Move.performed += OnMove;
-        controls.Gameplay.Move.canceled += OnMove;
-    }
 
-    void OnDisable()
-    {
-        if (controls == null) return;
-        controls.Gameplay.Move.performed -= OnMove;
-        controls.Gameplay.Move.canceled -= OnMove;
-        controls.Disable();
-    }
 
     void Start()
     {
@@ -65,14 +54,10 @@ public class GridPlayerMovement : MonoBehaviour
 
             return;
         }
-
+        moveInput = controls.MoveInput;
         TryMove();
     }
 
-    void OnMove(InputAction.CallbackContext ctx)
-    {
-        moveInput = ctx.ReadValue<Vector2>();
-    }
 
     void TryMove()
     {
@@ -88,7 +73,7 @@ public class GridPlayerMovement : MonoBehaviour
         _animator.SetFloat("MoveX", dir.x);
         _animator.SetFloat("MoveY", dir.y);
 
-
+        direction = dir;
         if (IsBlocked(targetLogicCell))
             return;
 
@@ -132,7 +117,7 @@ public class GridPlayerMovement : MonoBehaviour
 
         foreach (var cell in coveredCells)
         {
-            if (wallTilemap.HasTile(cell))
+            if (wallTilemap.HasTile(cell) || objectTilemap.HasTile(cell))
                 return true;
         }
 
